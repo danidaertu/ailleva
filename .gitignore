@@ -5,3 +5,6 @@ node_modules/*
 e2e
 .angular
 .angular/*
+enviroments/*
+src/enviroment
+src/enviroment/*
