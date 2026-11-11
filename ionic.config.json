@@ -1,0 +1,7 @@
+{
+  "name": "ailleva",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
